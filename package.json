@@ -1,11 +1,11 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
+    "name": "Talium-Launcher",
+    "preductname": "Talium Launcher",
     "version": "1.3.0",
-    "description": "Launcher Mincraft custom (crack, premium)",
+    "description": "Launcher Minecraft Pour Talium",
     "main": "src/app.js",
-    "author": "Luuxis",
-    "url": "http://craftdium.ml/launcherSelvania",
+    "author": "BodeMV",
+    "url": "http://talium.now-heberg.com",
     "engines": {
         "node": "^18.x.x"
     },
@@ -34,6 +34,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/BodeSwix/Talium-Launcher.git"
     }
 }
